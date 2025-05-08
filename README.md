@@ -6,6 +6,8 @@ This repository contains an in-depth analysis of Airbnb property listings in New
 
 The dataset includes details such as property features, host information, geographical coordinates, pricing, and guest reviews. The findings are presented in a detailed report within the `AIRBNB DATA ANALYSIS.pptx`.
 
+Dataset: [View Here](https://drive.google.com/file/d/1sQMI9MtKWgmUYFepNtycYpzkYfKZxB-6/view?usp=sharing)
+
 ## Dataset Features
 
 Here's a brief overview of the dataset's features:
